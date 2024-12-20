@@ -7,9 +7,8 @@ Welcome to Eng.Ali Ahmed profile!
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=متخصص%20في%20تقنية%20المعلومات;أسعى%20لاستخدام%20التقنية%20لتحسين%20حياة%20الناس&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Information%20Technology%20Specialist;I%20strive%20to%20use%20technology%20to%20improve%20people's%20lives&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 - 🏢 أنا المهندس علي أحمد، متخصص في تقنية المعلومات.
 - 👨‍💻 أستطيع تطوير التطبيقات والمواقع وإدارة الشبكات وقواعد البيانات.
 - 💬 لديك استفسار عن الأمن السيبراني أو الشبكات؟ لا تتردد في سؤالي.
